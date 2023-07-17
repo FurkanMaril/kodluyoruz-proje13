@@ -1,2 +1,2 @@
 # kodluyoruz-proje13
-Patika Veri Yapıları ve Algoritmalar Proje 3
+Patika Data Structures and Algorithms Project 3
